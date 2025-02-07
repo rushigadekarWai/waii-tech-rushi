@@ -2,11 +2,11 @@
 A personal website profile showcasing my skills, projects, and experience. Built with modern web technologies, this site highlights my work and provides a seamless user experience. Explore my portfolio, contact me, and view my latest projects
 # Rushi Gadekar - Software Developer Intern at Wai Technologies
 
-Hi, I am **Rushikesh Gadekar**, a passionate software developer intern currently working at Wai Technologies. I specialize in front-end development and have hands-on experience with Java, Spring Boot, React, C, HTML, CSS, JavaScript, and MySQL. I am dedicated to learning new technologies and contributing to dynamic projects.
+Hi, I am **Rushikesh Gadekar**, a passionate Software Developer Intern at Wai Technologies, specializing in front-end development. I have hands-on experience with Java, Spring Boot, React, C, HTML, CSS, JavaScript, and MySQL. I am eager to learn new technologies and contribute to dynamic web and backend development projects.
 
 ## About Me
 
-I am a motivated Software Developer Intern with practical experience in building web applications. I am skilled in developing RESTful APIs, database management, front-end design, and enhancing user experiences with a focus on performance and usability.
+I am a motivated Software Developer Intern with practical experience in building web applications. I specialize in developing RESTful APIs, front-end design, and database management, with a strong focus on performance optimization and improving user experience.
 
 ## Skills
 
@@ -19,19 +19,17 @@ I am a motivated Software Developer Intern with practical experience in building
 
 ### Software Developer Intern at Wai Technologies
 
-- Worked alongside senior developers to build and enhance web applications.
-- Contributed to front-end and back-end development using modern technologies.
-- Focused on performance optimization and user experience improvements.
+- Worked on building dynamic web applications and contributing to both the front-end and back-end development of projects.
+- Gained experience with modern web technologies like React, Java, Spring Boot, and MySQL.
+- Focused on performance optimization, UI/UX improvements, and agile development practices.
 
 ## Pricing
-
-Here is a look at my project pricing based on the work involved:
 
 - **PSD to HTML** - $79 / Per Page
 - **Custom Design Integration** - $89 / Per Page
 - **Complete Web Development** - $99 / Per Page
 
-Feel free to contact me for detailed quotes and discussions about your project.
+For more details, feel free to contact me for custom project quotes.
 
 ## Hobbies
 
@@ -46,7 +44,7 @@ I believe hobbies allow one to express passion and creativity outside of work. H
 
 - Email: rushigadekar@gmail.com
 - Phone: +91 7778899955
-- Website: [https://rushigadekarwai.github.io/waii-tech-rushi/](https://rushigadekarwai.github.io/waii-tech-rushi/)
+- Website: [https://waii-tech-rushi.vercel.app/](https://waii-tech-rushi.vercel.app/)
 
 ## License
 
